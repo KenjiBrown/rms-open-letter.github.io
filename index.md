@@ -56,5 +56,7 @@ Signed in support for Richard M Stallman,
 - Oscar Ibarra H. (Wed, 24 Mar 2021 15:34:48 +0000)
 - Sandino Araico Sánchez <sandino@sandino.net>
 
-Another public letter in support of Richard Stallman: https://github.com/rms-support-letter/rms-support-letter.github.io/blob/master/index.md
+----
+
+You might also be interested in signing this other public letter: https://github.com/rms-support-letter/rms-support-letter.github.io/blob/master/index.md
 
