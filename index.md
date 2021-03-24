@@ -5,11 +5,11 @@ Richard Stallman is being unfairly linched and defamed by a group pf people in a
 
 We, the undersigned, belive in freedom as a human right. Freedom of speach is what Richard Stallman is being attacked for. In order to realize the promise of everything freedom makes possible, we must defend free speech and we must defend our community members against this kind of attacks to free speech based on false acusations and regrettable hate campaigns. Such hate campaigns as we know only lead to division and self destruction.
 
-We acknowledge that some of Richard Stallman's opinions are controversial. Some of us might have different opinions, but we are grown enough to differentiate an opinion from bad behaviour. Commenting about a controversial topic is not a crime and should never be a crime. Commenting about a controversial topic should have never been a reason for Richard Stallman (or any one else) to loose his job, his reputation, his position and access to the ptojects he has been devoted to most of his life.
+We acknowledge that some of Richard Stallman's opinions are controversial. Some of us might have different opinions, but we are grown enough to differentiate an opinion from bad behaviour. Commenting about a controversial topic is not a crime and should never be a crime. Having commented about a controversial topic should have never been a reason for Richard Stallman (or any one else) to loose his job, his reputation, his position and access to the ptojects he has been devoted to most of his life.
 
 We accept and recognize Richard as a human being with strengths and weaknesses as any one else. We are thankful for all the work he has done in the past years in favor of software freedom. We acknowledge the need for more people like Richard in the head of key organizations like the Free Software Foundation and the GNU project.
 
-There has been enough damage against Richard Stallman, the Free Software Foundation and the Free software movement as a whole. We have had enough. We have had enough *ad-hóminem* attacks targeted against Free Software representatives. We have had enough divisive attacks aiming to leave our Free Software Movement weaker than ever before.
+There has been enough damage against Richard Stallman, the Free Software Foundation and the Free software movement as a whole. We have had enough. We have had enough *ad-hóminem* attacks targeted against Free Software representatives. We have had enough divisive attacks aiming to leave our Free Software movement weaker than ever before.
 
 **We are calling for the endorsement of Richard M. Stallman as a Board member of the Free Software Foundation.** FSF members should recognize Richard for his commitment to software freedom and for his great job all these years. They should embrace freedom as a whole, despite of malicious dafamation attacks comming from people with personal interests against the person and the movement. It is time for RMS to recover his lost position and never step back again. Free Software Movement needs more people with such a commitment for Free Software's ideals. 
 
@@ -18,6 +18,20 @@ There has been enough damage against Richard Stallman, the Free Software Foundat
 We urge those in a position to do so to keep supporting Richard Stallman and the Free Software Foundation. Keep contributing to projects related to the FSF and RMS. Keep attending to FSF events, and events that welcome RMS and other Free Software representatives. We ask for contributors to Free Software projects to take a stand against bigotry and hate within their projects. While doing these things, tell these communities the value of Freedom. 
 
 We acknowledge all of Richard Stallman's contributions to software freedom. Some of us have our own stories about RMS and our interactions with him. We have welcomed him in our homes and our universities. We have learned to know him as the humen he is, with his strengths and weaknesses, things that are not captured in email threads or on video. We hope you will read what has been shared and consider the harm some malicious people are doing to our community.
+
+----
+
+Richard Stallman está siendo linchado y difamado por un grupo de personas en una carta abierta a la FSF. Están pidiendo que sea expulsado de una organización que él creó, que dedicó su vida a ella y que merece más que cualquiera de nosotros estar a la cabeza.
+
+Nosotros, los aquí firmantes, creemos en la libertad como un derecho humano. Libertad de expresión es por lo que Richard Stallman ha estado siendo atacado. Para poder alcanzar la promesa de todo lo que la libertad hace posible, debemos defender la libertad de expresión y debemos defender a los miembros de nuestra comunidad contra este tipo de ataques contra la libre expresión basados en falsas acusaciones y lamentables campañas de odio. Estas campañas de odio, como sabemos, solo nos llevan a la división y a la autodestrucción.
+
+Reconocemos que algunas de las opiniones de Richard Stallman son controvertidas. Algunos de nosotros podríamos tener distintas opiniones, pero ya estamos lo suficientemente grandes para poder distinguir entre una opinión y un mal comportamiento. Opinar sobre temas polémicos no es un crimen y nunca debería serlo. Haber opinado sobre un tema polémico nunca debió haber sido razón para que Richard Stallman (o cualquier otro) perdiera su empleo, su reputación, su posición y acceso a proyectos a los que ha dedicado parte de su vida.
+
+Aceptamos y reconocemos a Richard Stallman como un ser humano con virtudes y defectos como cualquier otro. Estamos agradecidos por todo el trabajo que ha hecho en estos años en favor de la libertad del software. Reconocemos la necesidad de que más personas como Richard estén a la cabeza de organizaciones clave como al Free Software Foundation y el proyecto GNU.
+
+Ya ha habido suficiente daño en contra de Richard Stallman, la free Software Foundation y el movimiento de Software Libre como un todo. Ya tuvimos suficiente. Ya hemos tenido suficientes ataques *ad-hminem* en contra de representantes del Software Libre. Ya hemos tenido suficientes ataques divisivos que solo buscan dejar a nuestro movimiento del Software Libre más débil que nunca antes.
+
+**Estamos haciendo un llamado a respaldar a Richard M. Stallman como miembro de la junta de la Free Software foundation.** Los miembros de la FSF deberían reconocer a Richard por su compromiso hacia la libertad del software y por su gran trabajo todos estos años. Deberían abrazar la libertad como un todo, a pesar de ataques malignos que vienen de personas con intereses personales en contra de la persona y del movimiento.
 
 
 To sign, please email <rms-support@softwarelibre.mx> or [submit a merge request](https://gitlab.com/KenjiBrown/rms-open-letter/-/merge_requests/new).
