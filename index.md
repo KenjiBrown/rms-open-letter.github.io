@@ -49,5 +49,6 @@ Signed in support for Richard M Stallman,
 - figosdev <faiflab@tutanota.com>
 - Guillermo Molleda Jimena (Wed, 24 Mar 2021 11:59:24 +0100)
 - Marcel Ventosa (Wed, 24 Mar 2021 05:48:58 -0600)
+- Matías Croce (Wed, 24 Mar 2021 14:38:00 -0300)
 - Sandino Araico Sánchez <sandino@sandino.net>
 
