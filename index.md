@@ -47,6 +47,7 @@ Institutional affiliation is provided for identification purposes only and does 
 Signed in support for Richard M Stallman,
 
 - Cori Santander (Free Software Activist) (Wed, 24 Mar 2021 12:56:56 -0400)
+- Eduardo Valdivia Lugo <evaldivia@riseup.net>
 - figosdev <faiflab@tutanota.com>
 - Javier Obregón - Posadas Misiones Argentina (Wed, 24 Mar 2021 17:05:03 +0000)
 - Guillermo Molleda Jimena (Wed, 24 Mar 2021 11:59:24 +0100)
