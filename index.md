@@ -52,6 +52,7 @@ Signed in support for Richard M Stallman,
 - Javier Obregón - Posadas Misiones Argentina (Wed, 24 Mar 2021 17:05:03 +0000)
 - Guillermo Molleda Jimena (Wed, 24 Mar 2021 11:59:24 +0100)
 - Marcel Ventosa (Wed, 24 Mar 2021 05:48:58 -0600)
+- Matías Croce (Wed, 24 Mar 2021 14:38:00 -0300)
 - Oscar Ibarra H. (Wed, 24 Mar 2021 15:34:48 +0000)
 - Sandino Araico Sánchez <sandino@sandino.net>
 
