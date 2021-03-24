@@ -46,8 +46,13 @@ Institutional affiliation is provided for identification purposes only and does 
 
 Signed in support for Richard M Stallman,
 
+- Cori Santander (Free Software Activist) (Wed, 24 Mar 2021 12:56:56 -0400)
 - figosdev <faiflab@tutanota.com>
+- Javier Obregón - Posadas Misiones Argentina (Wed, 24 Mar 2021 17:05:03 +0000)
 - Guillermo Molleda Jimena (Wed, 24 Mar 2021 11:59:24 +0100)
 - Marcel Ventosa (Wed, 24 Mar 2021 05:48:58 -0600)
+- Oscar Ibarra H. (Wed, 24 Mar 2021 15:34:48 +0000)
 - Sandino Araico Sánchez <sandino@sandino.net>
+
+Another public letter in support of Richard Stallman: https://github.com/rms-support-letter/rms-support-letter.github.io/blob/master/index.md
 
