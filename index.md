@@ -1,5 +1,4 @@
 
-
 *2021-03-23*
 
 Richard M. Stallman is being unfairly linched and defamed by the above signing. They are asking for him to be expelled from an organization he created, he commited his live to, and he deserves more than any one of us to be head of. 
@@ -16,9 +15,8 @@ We urge those in a position to do so to keep supporting Richard M. Stallman and 
 
 We acknowledge all of Richard M. Stallman's contributions to software freedom. Some of us have our own stories about RMS and our interactions with him. We have welcomed him in our homes and our universities. We have learned to know him as the humen he is, with his strengths and weaknesses, things that are not captured in email threads or on video. We hope you will read what has been shared and consider the harm some malicious people are doing to our community.
 
-[1]: https://rms-open-letter.github.io/appendix
 
-To sign, please email sandino at sandino.net or [submit a pull request](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls).
+To sign, please email sandino at sandino.net or [submit a merge request](https://gitlab.com/KenjiBrown/rms-open-letter/-/merge_requests/new).
 
 Institutional affiliation is provided for identification purposes only and does not constitute institutional endorsement.
 
