@@ -7,3 +7,7 @@ A pull request https://github.com/rms-open-letter/rms-open-letter.github.io/pull
 Esta carta abierta ha sido escrita en respuesta a la carta original en contra de Richard Stallman en https://rms-open-letter.github.io/
 
 Fue enviado un pull request https://github.com/rms-open-letter/rms-open-letter.github.io/pull/485/files solicitando que nuestra réplica fuera incluída. Fue rechazado inmediatamente.
+
+----
+
+There's nother open letter in https://github.com/rms-support-letter/rms-support-letter.github.io .  Support signatures are received via merge requests.

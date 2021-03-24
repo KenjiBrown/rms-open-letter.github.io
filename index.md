@@ -28,7 +28,7 @@ Reconocemos que algunas de las opiniones de Richard Stallman son controvertidas.
 
 Aceptamos y reconocemos a Richard Stallman como un ser humano con virtudes y defectos como cualquier otro. Estamos agradecidos por todo el trabajo que ha hecho en estos años en favor de la libertad del software. Reconocemos la necesidad de que más personas como Richard estén a la cabeza de organizaciones clave como al Free Software Foundation y el proyecto GNU.
 
-Ya ha habido suficiente daño en contra de Richard Stallman, la free Software Foundation y el movimiento de Software Libre como un todo. Ya tuvimos suficiente. Ya hemos tenido suficientes ataques *ad-hminem* en contra de representantes del Software Libre. Ya hemos tenido suficientes ataques divisivos que solo buscan dejar a nuestro movimiento del Software Libre más débil que nunca antes.
+Ya ha habido suficiente daño en contra de Richard Stallman, la free Software Foundation y el movimiento de Software Libre como un todo. Ya tuvimos suficiente. Ya hemos tenido suficientes ataques *ad-hóminem* en contra de representantes del Software Libre. Ya hemos tenido suficientes ataques divisivos que solo buscan dejar a nuestro movimiento del Software Libre más débil que nunca antes.
 
 **Estamos haciendo un llamado a respaldar a Richard M. Stallman como miembro de la Junta de la Free Software foundation.** Los miembros de la FSF deberían reconocer a Richard por su compromiso hacia la libertad del software y por su gran trabajo todos estos años. Deberían abrazar la libertad como un todo, a pesar de ataques malintencionados provenientes de personas con intereses personales en contra de la persona y del movimiento. Es hora de que RMS recupere su posición perdida y nunca vuelva a retroceder. El movimiento del Software Libre necesita más personas con ese compromiso hacia los ideales del Software Libre.
 
@@ -36,7 +36,7 @@ Ya ha habido suficiente daño en contra de Richard Stallman, la free Software Fo
 
 Instamos a quienes estén en posición de hacerlo, a que sigan apoyando a Richard Stallman y su regreso a la Free Software Foundation. Que sigan contribuyendo en proyectos relacionados con el Software Libre y RMS. Que sigan asistiendo a eventos de Software Libre, a eventos que reciban a RMS y otros representantes del Software Libre. Pedimos a quienes contribuyen en proyectos de Software Libre que tomen una posición en contra de la intolerancia y el odio hacia dentro de sus proyectos.  Y mientras lo hagan, que hablen a estas comunidades sobre el valor de la libertad.
 
-Reconocemos todas las contribuciones de Richard Stallman a la libertad del software. Algunos de nosotros tenemos nuestras propias historias sobre richard y cómo hemos convivido con él. lo hemos recibido en nuestras casas y en nuestras universidades. hemos aprendido a conocerlo como el ser humano que es, con sus virtudes y sus defectos, cosas que no pueden ser capturadas en listas de correo o en video. Esperamos que lean cuidadosamente lo que ha sido compartido y que consideren el daño que gente malintencionada está haciendo a nuestra comunidad.
+Reconocemos todas las contribuciones de Richard Stallman a la libertad del software. Algunos de nosotros tenemos nuestras propias historias sobre Richard y cómo hemos convivido con él. lo hemos recibido en nuestras casas y en nuestras universidades. hemos aprendido a conocerlo como el ser humano que es, con sus virtudes y sus defectos, cosas que no pueden ser capturadas en listas de correo o en video. Esperamos que lean cuidadosamente lo que ha sido compartido y que consideren el daño que gente malintencionada está haciendo a nuestra comunidad.
 
 ----
 
@@ -46,8 +46,15 @@ Institutional affiliation is provided for identification purposes only and does 
 
 Signed in support for Richard M Stallman,
 
+- Cori Santander (Free Software Activist) (Wed, 24 Mar 2021 12:56:56 -0400)
+- Eduardo Valdivia Lugo <evaldivia@riseup.net>
 - figosdev <faiflab@tutanota.com>
+- Javier Obregón - Posadas Misiones Argentina (Wed, 24 Mar 2021 17:05:03 +0000)
 - Guillermo Molleda Jimena (Wed, 24 Mar 2021 11:59:24 +0100)
 - Marcel Ventosa (Wed, 24 Mar 2021 05:48:58 -0600)
+- Matías Croce (Wed, 24 Mar 2021 14:38:00 -0300)
+- Oscar Ibarra H. (Wed, 24 Mar 2021 15:34:48 +0000)
 - Sandino Araico Sánchez <sandino@sandino.net>
+
+Another public letter in support of Richard Stallman: https://github.com/rms-support-letter/rms-support-letter.github.io/blob/master/index.md
 
