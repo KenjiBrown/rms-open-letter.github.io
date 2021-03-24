@@ -1,11 +1,10 @@
-
 *2021-03-23*
 
-Richard Stallman is being unfairly linched and defamed by a group pf people in an open letter to the FSF. They are asking for him to be expelled from an organization he created, he commited his live to, and he deserves more than any one of us to be head of. 
+Richard Stallman is being unfairly lynched and defamed by a group of people in an open letter to the FSF. They are asking for him to be expelled from an organization he created, he commited his live to, and he deserves more than any one of us to be head of. 
 
-We, the undersigned, belive in freedom as a human right. Freedom of speach is what Richard Stallman is being attacked for. In order to realize the promise of everything freedom makes possible, we must defend free speech and we must defend our community members against this kind of attacks to free speech based on false acusations and regrettable hate campaigns. Such hate campaigns as we know only lead to division and self destruction.
+We, the undersigned, belive in freedom as a human right. Freedom of speach is what Richard Stallman is being attacked for. In order to realize the promise of everything freedom makes possible, we must defend free speech and we must defend our community members against these kind of attacks to free speech based on false acusations and regrettable hate campaigns. Such hate campaigns as we know only lead to division and self destruction.
 
-We acknowledge that some of Richard Stallman's opinions are controversial. Some of us might have different opinions, but we are grown enough to differentiate an opinion from bad behaviour. Commenting about a controversial topic is not a crime and should never be a crime. Having commented about a controversial topic should have never been a reason for Richard Stallman (or any one else) to loose his job, his reputation, his position and access to the ptojects he has been devoted to most of his life.
+We acknowledge that some of Richard Stallman's opinions are controversial. Some of us might have different opinions, but we are mature enough to differentiate an opinion from bad behaviour. Commenting about a controversial topic is not a crime and should never be a crime. Commenting about a controversial topic should have never been a reason for Richard Stallman (or any one else) to lose his job, his reputation, his position and access to the projects he has been devoted to most of his life.
 
 We accept and recognize Richard as a human being with strengths and weaknesses as any one else. We are thankful for all the work he has done in the past years in favor of software freedom. We acknowledge the need for more people like Richard in the head of key organizations like the Free Software Foundation and the GNU project.
 
@@ -17,7 +16,7 @@ There has been enough damage against Richard Stallman, the Free Software Foundat
 
 We urge those in a position to do so to keep supporting Richard Stallman and his return to the Free Software Foundation. Keep contributing to projects related to Free Software and RMS. Keep attending to Free Software events, and events that welcome RMS and other Free Software representatives. We ask for contributors to Free Software projects to take a stand against bigotry and hate within their projects. While doing these things, tell these communities the value of Freedom. 
 
-We acknowledge all of Richard Stallman's contributions to software freedom. Some of us have our own stories about RMS and our interactions with him. We have welcomed him in our homes and our universities. We have learned to know him as the humen he is, with his strengths and weaknesses, things that are not captured in email threads or on video. We hope you will read carefully what has been shared and consider the harm some malicious people are doing to our community.
+We acknowledge all of Richard Stallman's contributions to software freedom. Some of us have our own stories about RMS and our interactions with him. We have welcomed him in our homes and our universities. We have learned to know him as the human he is, with his strengths and weaknesses, things that are not captured in email threads or on video. We hope you will read what has been shared and consider the harm some malicious people are doing to our community.
 
 ----
 
@@ -25,7 +24,7 @@ Richard Stallman está siendo linchado y difamado por un grupo de personas en un
 
 Nosotros, los aquí firmantes, creemos en la libertad como un derecho humano. Libertad de expresión es por lo que Richard Stallman ha estado siendo atacado. Para poder alcanzar la promesa de todo lo que la libertad hace posible, debemos defender la libertad de expresión y debemos defender a los miembros de nuestra comunidad contra este tipo de ataques contra la libre expresión basados en falsas acusaciones y lamentables campañas de odio. Estas campañas de odio, como sabemos, solo nos llevan a la división y a la autodestrucción.
 
-Reconocemos que algunas de las opiniones de Richard Stallman son controvertidas. Algunos de nosotros podríamos tener distintas opiniones, pero ya estamos lo suficientemente grandes para poder distinguir entre una opinión y un mal comportamiento. Opinar sobre temas polémicos no es un crimen y nunca debería serlo. Haber opinado sobre un tema polémico nunca debió haber sido razón para que Richard Stallman (o cualquier otro) perdiera su empleo, su reputación, su posición y acceso a proyectos a los que ha dedicado parte de su vida.
+Reconocemos que algunas de las opiniones de Richard Stallman son controvertidas. Algunos de nosotros podríamos tener distintas opiniones, pero ya estamos lo suficientemente maduros para poder distinguir entre una opinión y un mal comportamiento. Opinar sobre temas polémicos no es un crimen y nunca debería serlo. Haber opinado sobre un tema polémico nunca debió haber sido razón para que Richard Stallman (o cualquier otro) perdiera su empleo, su reputación, su posición y acceso a proyectos a los que ha dedicado parte de su vida.
 
 Aceptamos y reconocemos a Richard Stallman como un ser humano con virtudes y defectos como cualquier otro. Estamos agradecidos por todo el trabajo que ha hecho en estos años en favor de la libertad del software. Reconocemos la necesidad de que más personas como Richard estén a la cabeza de organizaciones clave como al Free Software Foundation y el proyecto GNU.
 
@@ -48,4 +47,5 @@ Institutional affiliation is provided for identification purposes only and does 
 Signed in support for Richard M Stallman,
 
 - Sandino Araico Sánchez <sandino@sandino.net>
+- figosdev <faiflab@tutanota.com>
 
