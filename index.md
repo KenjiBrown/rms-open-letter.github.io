@@ -46,6 +46,7 @@ Institutional affiliation is provided for identification purposes only and does 
 
 Signed in support for Richard M Stallman,
 
+- Eduardo Valdivia Lugo <evaldivia@riseup.net>
 - figosdev <faiflab@tutanota.com>
 - Guillermo Molleda Jimena (Wed, 24 Mar 2021 11:59:24 +0100)
 - Marcel Ventosa (Wed, 24 Mar 2021 05:48:58 -0600)
