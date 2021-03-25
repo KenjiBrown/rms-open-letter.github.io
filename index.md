@@ -56,7 +56,7 @@ Signed in support for Richard M Stallman,
 - Matías Croce (Wed, 24 Mar 2021 14:38:00 -0300 0173e7c5b877e8c36054d8fca18a17d0e2f1188a)
 - Noir Blanichi (Thu, 25 Mar 2021 13:33:05 +1300)
 - Oscar Ibarra H. (Wed, 24 Mar 2021 15:34:48 +0000)
-- Sandino Araico Sánchez <sandino@sandino.net> 
+- Sandino Araico Sánchez <sandino@sandino.net> (b45f4c261fba516ebac70d54469f0306ad6d64ae)
 - Taraak (libre software enthusiast and activist), Murcia Spain. (Wed, 24 Mar 2021 23:26:10 +0100)
 
 ----
