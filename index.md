@@ -54,6 +54,7 @@ Signed in support for Richard M Stallman,
 - Leah Rowe of Libreboot. See https://libreboot.org/ (Wed, 24 Mar 2021 21:39:13 +0000)
 - Marcel Ventosa (Wed, 24 Mar 2021 05:48:58 -0600)
 - Matías Croce (Wed, 24 Mar 2021 14:38:00 -0300 0173e7c5b877e8c36054d8fca18a17d0e2f1188a)
+- Miquel Coma Rivas (Thu, 25 Mar 2021 10:33:14 +0100)
 - Noir Blanichi (Thu, 25 Mar 2021 13:33:05 +1300)
 - Oscar Ibarra H. (Wed, 24 Mar 2021 15:34:48 +0000)
 - Sandino Araico Sánchez <sandino@sandino.net> (b45f4c261fba516ebac70d54469f0306ad6d64ae)
