@@ -47,16 +47,16 @@ Institutional affiliation is provided for identification purposes only and does 
 Signed in support for Richard M Stallman,
 
 - Cori Santander (Free Software Activist) (Wed, 24 Mar 2021 12:56:56 -0400)
-- Eduardo Valdivia Lugo <evaldivia@riseup.net>
-- figosdev <faiflab@tutanota.com>
+- Eduardo Valdivia Lugo <evaldivia@riseup.net> (53d762a37317e753f0e5e7141c82904587fddf64)
+- figosdev <faiflab@tutanota.com> (54cf084ba17817ed68e536f0e22ea520d89a8802)
 - Javier Obregón - Posadas Misiones Argentina (Wed, 24 Mar 2021 17:05:03 +0000)
 - Guillermo Molleda Jimena (Wed, 24 Mar 2021 11:59:24 +0100)
 - Leah Rowe of Libreboot. See https://libreboot.org/ (Wed, 24 Mar 2021 21:39:13 +0000)
 - Marcel Ventosa (Wed, 24 Mar 2021 05:48:58 -0600)
-- Matías Croce (Wed, 24 Mar 2021 14:38:00 -0300)
+- Matías Croce (Wed, 24 Mar 2021 14:38:00 -0300 0173e7c5b877e8c36054d8fca18a17d0e2f1188a)
 - Noir Blanichi (Thu, 25 Mar 2021 13:33:05 +1300)
 - Oscar Ibarra H. (Wed, 24 Mar 2021 15:34:48 +0000)
-- Sandino Araico Sánchez <sandino@sandino.net>
+- Sandino Araico Sánchez <sandino@sandino.net> 
 - Taraak (libre software enthusiast and activist), Murcia Spain. (Wed, 24 Mar 2021 23:26:10 +0100)
 
 ----
