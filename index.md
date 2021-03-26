@@ -55,6 +55,7 @@ Signed in support for Richard M Stallman,
 - Javier Obregón - Posadas Misiones Argentina (Wed, 24 Mar 2021 17:05:03 +0000)
 - Guillermo Molleda Jimena (Wed, 24 Mar 2021 11:59:24 +0100)
 - Iván Ruvalcaba (Libre software enthusiast) (Thu, 25 Mar 2021 13:02:12 -0600)
+- Juan Carlos Gentile <jucar@hipatia.net> (Fri, 26 Mar 2021 04:07:20 +0100)
 - Leah Rowe of Libreboot. See https://libreboot.org/ (Wed, 24 Mar 2021 21:39:13 +0000)
 - Marcel Ventosa (Wed, 24 Mar 2021 05:48:58 -0600)
 - Matías Bobadilla Píriz Soy un miembro asociado de la FSF. (Thu, 25 Mar 2021 10:25:33 +0000)
