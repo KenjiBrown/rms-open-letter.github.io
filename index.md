@@ -63,6 +63,7 @@ Signed in support for Richard M Stallman,
 - Miquel Coma Rivas (Thu, 25 Mar 2021 10:33:14 +0100)
 - Noir Blanichi (Thu, 25 Mar 2021 13:33:05 +1300)
 - Oscar Ibarra H. (Wed, 24 Mar 2021 15:34:48 +0000)
+- Ricardo Morte Ferrer, Abogado, miembro de la FSF (Fri, 26 Mar 2021 15:51:35 +0100)
 - Sandino Araico Sánchez <sandino@sandino.net> (b45f4c261fba516ebac70d54469f0306ad6d64ae)
 - Taraak (libre software enthusiast and activist), Murcia Spain. (Wed, 24 Mar 2021 23:26:10 +0100)
 
