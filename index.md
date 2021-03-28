@@ -46,12 +46,14 @@ Institutional affiliation is provided for identification purposes only and does 
 
 Signed in support for Richard M Stallman,
 
+- Adrian Zaugg (Sat, 27 Mar 2021 10:59:01 +0100)
 - Alexis Puente Montiel, libre software activist (organizator of the first FLISOL in Europe and Spanish coordinator of FLISOL) (Thu, 25 Mar 2021 20:51:00 +0000)
 - Cori Santander (Free Software Activist) (Wed, 24 Mar 2021 12:56:56 -0400)
 - Donato Molino (RMS Supporter) (Thu, 25 Mar 2021 17:39:25 +0100)
 - Eduardo Valdivia Lugo <evaldivia@riseup.net> (53d762a37317e753f0e5e7141c82904587fddf64)
 - Emmanuel Florac I support RMS (I'm FSF member since 2002) (Thu, 25 Mar 2021 20:27:26 +0100)
 - figosdev <faiflab@tutanota.com> (54cf084ba17817ed68e536f0e22ea520d89a8802)
+- Fred E <mett@pmars.jp> (Sun, 28 Mar 2021 14:02:24 +0900)
 - Javier Obregón - Posadas Misiones Argentina (Wed, 24 Mar 2021 17:05:03 +0000)
 - Guillermo Molleda Jimena (Wed, 24 Mar 2021 11:59:24 +0100)
 - Iván Ruvalcaba (Libre software enthusiast) (Thu, 25 Mar 2021 13:02:12 -0600)
@@ -63,6 +65,7 @@ Signed in support for Richard M Stallman,
 - Miquel Coma Rivas (Thu, 25 Mar 2021 10:33:14 +0100)
 - Noir Blanichi (Thu, 25 Mar 2021 13:33:05 +1300)
 - Oscar Ibarra H. (Wed, 24 Mar 2021 15:34:48 +0000)
+- Reynaldo Cordero Corro. Soy un miembro asociado de la FSF. (Sat, 27 Mar 2021 13:44:09 +0000)
 - Ricardo Morte Ferrer, Abogado, miembro de la FSF (Fri, 26 Mar 2021 15:51:35 +0100)
 - Sandino Araico Sánchez <sandino@sandino.net> (b45f4c261fba516ebac70d54469f0306ad6d64ae)
 - Taraak (libre software enthusiast and activist), Murcia Spain. (Wed, 24 Mar 2021 23:26:10 +0100)

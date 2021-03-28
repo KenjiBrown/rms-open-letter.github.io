@@ -11,3 +11,7 @@ Fue enviado un pull request https://github.com/rms-open-letter/rms-open-letter.g
 ----
 
 There's nother open letter in https://github.com/rms-support-letter/rms-support-letter.github.io .  Support signatures are received via merge requests.
+
+----
+
+
